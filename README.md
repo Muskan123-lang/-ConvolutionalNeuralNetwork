@@ -15,11 +15,11 @@ Convolutional layers, Pooling layers, Activation Functions, Fully Connected laye
 ** Pooling Layers: Pooling layers downsample the spatial dimensions of the input, reducing the computational complexity and the number of parameters in the network. Max pooling is a common pooling operation, selecting the maximum value from a group of neighboring pixels.
 
 *** Activation Functions: Non-linear activation functions, such as Rectified Linear Unit (ReLU), introduce non-linearity to the model, allowing it to learn more complex relationships in the data.
-(Note: Activation Functions An artificial neuron calculates the ‘weighted sum’ of its inputs and adds a bias. Mathematically, \text{net input} =\sum_\text{(weight * input)+bias})
+(Note: Activation Functions An artificial neuron calculates the ‘weighted sum’ of its inputs and adds a bias. Mathematically, 
+![Screenshot 2024-04-25 193635](https://github.com/Muskan123-lang/-ConvolutionalNeuralNetwork/assets/68841119/079fb73d-7063-4a19-8912-4deacfa67f1a)
+)
 (Note: ReLU: The ReLU function is the Rectified linear unit. It is the most widely used activation function. It is defined as: f(x) = max(0, x) 
 The main advantage of using the ReLU function over other activation functions is that it does not activate all the neurons at the same time. It means, if you look at the ReLU function, if the input is negative it will convert it to zero and the neuron does not get activated.)
 
-**** 
-
-
 ![Screenshot 2024-04-25 192236](https://github.com/Muskan123-lang/-ConvolutionalNeuralNetwork/assets/68841119/7bd29ec9-a2a2-402c-acd4-be0116178818)
+
