@@ -22,3 +22,4 @@ The main advantage of using the ReLU function over other activation functions is
 **** 
 
 
+![Screenshot 2024-04-25 192236](https://github.com/Muskan123-lang/-ConvolutionalNeuralNetwork/assets/68841119/7bd29ec9-a2a2-402c-acd4-be0116178818)
